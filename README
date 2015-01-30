@@ -8,7 +8,7 @@ Database:                   EITHER ChocAn.db (can revise) OR ./database/ChocAn.d
 Reports:                    Name@yyyy-MM-dd-HH-mm-ss.txt
 
 
-DBMS:                       sqlite3*    is a command-line shell for accessing and modifying SQLite databases
+DBMS:                       sqlite3*    is a command-line shell for accessing and modifying SQLite databases (denpents on specific OS)
                             it can also view data in database file
 
 
