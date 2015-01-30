@@ -1,0 +1,18 @@
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (1, 'Eric', '1234', 'member');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (2, 'Kai', '2345', 'member');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (3, 'Tony', '3456', 'manager');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (4, 'Jiang', '45678@abc', 'provider');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (5, 'Tony Jiang', 'abcde', 'provider');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (6, 'Oracle', 'Oracle', 'member');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (7, 'Google', 'Google', 'manager');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (8, 'Facebook', 'Facebook', 'manager');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (9, 'Twitter', 'Twitter', 'provider');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (10, 'Amazon', 'Amazon', 'member');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (11, 'PSU', 'PSU', 'provider');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (12, 'Mozillia', 'Mozillia', 'manager');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (13, 'Dropbox', 'Dropbox', 'manager');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (14, 'ACM-ICPC', 'ACM-ICPC', 'manager');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (15, 'Kai Jiang', 'Kai Jiang', 'provider');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (16, 'root', 'root', 'manager');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (17, 'Adobe', 'Adobe', 'provider');
+INSERT INTO ACCOUNT (id, Name, Password, Role) VALUES (18, 'root2', 'root2', 'member');
